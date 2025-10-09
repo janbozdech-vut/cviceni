@@ -1,0 +1,5 @@
+D:/274791/cviceni/CV04/Prestupny-rok/out/build/x64-debug/CMakeFiles/edit_cache.dir
+D:/274791/cviceni/CV04/Prestupny-rok/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
+D:/274791/cviceni/CV04/Prestupny-rok/out/build/x64-debug/Prestupny-rok/CMakeFiles/Prestupny-rok.dir
+D:/274791/cviceni/CV04/Prestupny-rok/out/build/x64-debug/Prestupny-rok/CMakeFiles/edit_cache.dir
+D:/274791/cviceni/CV04/Prestupny-rok/out/build/x64-debug/Prestupny-rok/CMakeFiles/rebuild_cache.dir
