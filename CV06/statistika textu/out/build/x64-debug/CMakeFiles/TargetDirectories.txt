@@ -1,0 +1,5 @@
+D:/274791/cviceni/CV06/statistika textu/out/build/x64-debug/CMakeFiles/edit_cache.dir
+D:/274791/cviceni/CV06/statistika textu/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
+D:/274791/cviceni/CV06/statistika textu/out/build/x64-debug/statistika textu/CMakeFiles/CMakeTarget.dir
+D:/274791/cviceni/CV06/statistika textu/out/build/x64-debug/statistika textu/CMakeFiles/edit_cache.dir
+D:/274791/cviceni/CV06/statistika textu/out/build/x64-debug/statistika textu/CMakeFiles/rebuild_cache.dir
