@@ -1,0 +1,24 @@
+# ninja log v6
+14	953	7841303571773559	Prunik intervalu/CMakeFiles/CMakeTarget.dir/Prunik_intervalu.cpp.obj	86b3c8150cff107b
+17	213	7841306798607391	build.ninja	4c3c3a3a1294e394
+8	79	7841307333564995	Prunik intervalu/CMakeFiles/CMakeTarget.dir/modul.cpp.obj	40a6d187666c98ea
+79	646	7841307334354916	Prunik intervalu/CMakeTarget.exe	5da00d6dcaf4fead
+8	344	7841317339073204	Prunik intervalu/CMakeFiles/CMakeTarget.dir/modul.cpp.obj	40a6d187666c98ea
+345	573	7841317342554455	Prunik intervalu/CMakeTarget.exe	5da00d6dcaf4fead
+15	348	7841324770977564	Prunik intervalu/CMakeFiles/CMakeTarget.dir/modul.cpp.obj	40a6d187666c98ea
+8	928	7841325674771947	Prunik intervalu/CMakeFiles/CMakeTarget.dir/Prunik_intervalu.cpp.obj	86b3c8150cff107b
+929	1143	7841325683933418	Prunik intervalu/CMakeTarget.exe	5da00d6dcaf4fead
+9	946	7841327570913201	Prunik intervalu/CMakeFiles/CMakeTarget.dir/Prunik_intervalu.cpp.obj	86b3c8150cff107b
+948	1180	7841327580301647	Prunik intervalu/CMakeTarget.exe	5da00d6dcaf4fead
+8	949	7841327792583447	Prunik intervalu/CMakeFiles/CMakeTarget.dir/Prunik_intervalu.cpp.obj	86b3c8150cff107b
+950	1154	7841327802053279	Prunik intervalu/CMakeTarget.exe	5da00d6dcaf4fead
+8	940	7841329157259233	Prunik intervalu/CMakeFiles/CMakeTarget.dir/Prunik_intervalu.cpp.obj	86b3c8150cff107b
+941	1179	7841329166716094	Prunik intervalu/CMakeTarget.exe	5da00d6dcaf4fead
+8	927	7841330860352806	Prunik intervalu/CMakeFiles/CMakeTarget.dir/Prunik_intervalu.cpp.obj	86b3c8150cff107b
+929	1125	7841330869540172	Prunik intervalu/CMakeTarget.exe	5da00d6dcaf4fead
+8	75	7841332991698443	Prunik intervalu/CMakeFiles/CMakeTarget.dir/modul.cpp.obj	40a6d187666c98ea
+76	302	7841332992329365	Prunik intervalu/CMakeTarget.exe	5da00d6dcaf4fead
+8	70	7841333735208077	Prunik intervalu/CMakeFiles/CMakeTarget.dir/modul.cpp.obj	40a6d187666c98ea
+71	278	7841333735839069	Prunik intervalu/CMakeTarget.exe	5da00d6dcaf4fead
+7	925	7841334382790524	Prunik intervalu/CMakeFiles/CMakeTarget.dir/Prunik_intervalu.cpp.obj	86b3c8150cff107b
+926	1164	7841334392006572	Prunik intervalu/CMakeTarget.exe	5da00d6dcaf4fead
