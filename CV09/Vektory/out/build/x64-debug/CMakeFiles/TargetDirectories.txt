@@ -1,0 +1,5 @@
+D:/274791/cviceni/CV09/Vektory/out/build/x64-debug/CMakeFiles/edit_cache.dir
+D:/274791/cviceni/CV09/Vektory/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
+D:/274791/cviceni/CV09/Vektory/out/build/x64-debug/Vektory/CMakeFiles/Vektory.dir
+D:/274791/cviceni/CV09/Vektory/out/build/x64-debug/Vektory/CMakeFiles/edit_cache.dir
+D:/274791/cviceni/CV09/Vektory/out/build/x64-debug/Vektory/CMakeFiles/rebuild_cache.dir
