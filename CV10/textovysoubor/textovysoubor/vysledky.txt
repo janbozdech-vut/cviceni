@@ -1,0 +1,4 @@
+Pocet pismen: 89 
+Pocet cislic: 9 
+Pocet slov: 20 
+Pocet vet: 2

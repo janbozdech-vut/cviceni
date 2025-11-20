@@ -1,0 +1,5 @@
+D:/274791/cviceni/CV10/textovysoubor/out/build/x64-debug/CMakeFiles/edit_cache.dir
+D:/274791/cviceni/CV10/textovysoubor/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
+D:/274791/cviceni/CV10/textovysoubor/out/build/x64-debug/textovysoubor/CMakeFiles/textovysoubor.dir
+D:/274791/cviceni/CV10/textovysoubor/out/build/x64-debug/textovysoubor/CMakeFiles/edit_cache.dir
+D:/274791/cviceni/CV10/textovysoubor/out/build/x64-debug/textovysoubor/CMakeFiles/rebuild_cache.dir
